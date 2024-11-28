@@ -120,8 +120,8 @@ This project is licensed under the **MIT License**. You can find more details in
 ## 📬 Contact
 
 If you have any questions, feedback, or would like to connect, feel free to reach out:
-- **GitHub**: [YourUsername](https://github.com/yourusername)
-- **Email**: your.email@example.com
+- **GitHub**: https://github.com/ROhitasware
+- **Email**: rohitasware2004@gmail.com
 
 ---
 
